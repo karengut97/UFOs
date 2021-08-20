@@ -13,13 +13,13 @@ This project focuses on building a website page to display information about UFO
   
 3. A filter capability on the data to allow the user to query and display sighting information
 
-The rendered website utilizes features from Bootstrap and CSS style sheets for an aethetically pleasant display.
+The rendered website utilizes features from Bootstrap and CSS style sheets for an aesthetically pleasant display.
 
 ## Results
 
 When the user accesses the website, the top portion provides the overview.
 
-   <img src="/static/images/UFO_Webpage.png" width="400" height="150"/>  
+   <img src="/static/images/UFO_Webpage.png"/>  
 
 Scrolling down the page, the user sees the filter capability on the left and data table on the right.
 
